@@ -8,14 +8,15 @@ Compendium of Self-Driving Car Projects
 
 [//]: # (Repo URL Links)
 [link1]: https://github.com/laygond/Simple-Lane-Detection
-[link2]: https://github.com/laygond/Advanced-Lane-Detection)
+[link2]: https://github.com/laygond/Advanced-Lane-Detection
 
 # Projects
 
-<var>w</var>
+<var>wooo</var>
 var {
     font-weight: bold;
 }
+
 
 <!-- <a href=https://github.com/laygond/Simple-Lane-Detection>
 <img src=[image1] alt="Overview" width="60%" height="60%">

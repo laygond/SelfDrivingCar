@@ -23,5 +23,5 @@ Simple Lane Detection | Advanced Lane Detection
 
 Traffic Sign Classifier | Behavioral Clonning
 :---:|:---:
-![alt text][image3] | ![alt text][image4] &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=https://github.com/laygond/Traffic-Sign-Classifier> <img src="./README_images/traffic.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/Behavioral-Cloning> <img src="./README_images/behavior.gif" width="480" height="270"> </a> 
 

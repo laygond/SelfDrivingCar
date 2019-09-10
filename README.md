@@ -14,5 +14,11 @@ Compendium of Self-Driving Car Projects
 
 ![alt text][image1] ![alt text][image2]
 
+
+[Simple Lane Detection](https://github.com/laygond/Simple-Lane-Detection)              |  [Advanced Lane Detection](https://github.com/laygond/Advanced-Lane-Detection)
+:-------------------------:|:-------------------------:
+![alt text][image1]  |  ![alt text][image2]
+
+
 [//]: # (Traffic Sign)
 [Traffic Sign Classifier](https://github.com/laygond/Traffic-Sign-Classifier)

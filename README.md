@@ -1,6 +1,5 @@
 # SelfDrivingCar
 Compendium of Self-Driving Car Projects
----
 
 [//]: # (Image Directory Paths)
 [image1]: ./README_images/simple_lane_detection.gif
@@ -14,14 +13,22 @@ Compendium of Self-Driving Car Projects
 [link3]: https://github.com/laygond/Traffic-Sign-Classifier
 [link4]: https://github.com/laygond/Behavioral-Cloning
 
+[hola]: [HOLA]
+
+[love][Arbitrary case-insensitive reference text]
 
 # Projects
 
 [Simple Lane Detection (Code)][link1] | [Advanced Lane Detection (Code)][link2]
 :---:|:---:
-![alt text][image1]  |  ![alt text][image2]
+![alt text][image1] | ![alt text][image2]
 <!-- <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image1]</a>  |     <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image2]</a>  -->
 
 [Traffic Sign Classifier (Code)][link3] | [Behavioral Clonning (Code)][link4]
 :---:|:---:
-![alt text][image3]  |  ![alt text][image4]
+![alt text][image3] | ![alt text][image4]
+
+[hola2][hola] | [love2][love]
+:---:|:---:
+![alt text][image3]{:height="50%" width="50%"} | ![alt text][image4]{width=200px}
+

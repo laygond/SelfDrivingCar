@@ -16,12 +16,17 @@ Compendium of Self-Driving Car Projects
 
 # Projects
 
-[Simple Lane Detection (Code)][link1] | [Advanced Lane Detection (Code)][link2]
+Simple Lane Detection | Advanced Lane Detection 
 :---:|:---:
-![alt text][image1] | ![alt text][image2]
+<a href=https://github.com/laygond/Simple-Lane-Detection>
+    <img src="./README_images/simple_lane_detection.gif" width="480" height="270"
+</a> | 
+<a href=https://github.com/laygond/Advanced-Lane-Detection>
+    <img src="./README_images/advanced_lane_detection.gif" width="480" height="270"
+</a> 
 
 
-[Traffic Sign Classifier (Code)][link3] | [Behavioral Clonning (Code)][link4]
+Traffic Sign Classifier | Behavioral Clonning
 :---:|:---:
-![alt text][image3] | ![alt text][image4] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![alt text][image3] | ![alt text][image4] &nbsp; &nbsp; &nbsp; &nbsp;
 

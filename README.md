@@ -5,33 +5,23 @@ Compendium of Self-Driving Car Projects
 [//]: # (Image Directory Paths)
 [image1]: ./README_images/simple_lane_detection.gif
 [image2]: ./README_images/advanced_lane_detection.gif
+[image3]: ./README_images/traffic.gif
+[image4]: ./README_images/behavior.gif
 
 [//]: # (Repo URL Links)
 [link1]: https://github.com/laygond/Simple-Lane-Detection
 [link2]: https://github.com/laygond/Advanced-Lane-Detection
+[link3]: https://github.com/laygond/Traffic-Sign-Classifier
+[link4]: https://github.com/laygond/Behavioral-Cloning
+
 
 # Projects
-var {
-    font-weight: bold;
-}
 
-<var>wooo</var>
-wooo
-
-
-<!-- <a href=https://github.com/laygond/Simple-Lane-Detection>
-<img src=[image1] alt="Overview" width="60%" height="60%">
-</a> -->
-
-Simple Lane Detection [(Click Me)][link1] | Advanced Lane Detection [(Click Me)][link2]
-:-------------------------:|:-------------------------:
+[Simple Lane Detection (Code)][link1] | [Advanced Lane Detection (Code)][link2]
+:---:|:---:
 ![alt text][image1]  |  ![alt text][image2]
+<!-- <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image1]</a>  |     <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image2]</a>  -->
 
-<!-- 
-[Simple Lane Detection][link1] | [Advanced Lane Detection][link2]
-:-------------------------:|:-------------------------:
-<a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image1]</a>  |     <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image2]</a> -->
-
-
-[//]: # (Traffic Sign)
-[Traffic Sign Classifier](https://github.com/laygond/Traffic-Sign-Classifier)
+[Traffic Sign Classifier (Code)][link3] | [Behavioral Clonning (Code)][link4]
+:---:|:---:
+![alt text][image3]  |  ![alt text][image4]

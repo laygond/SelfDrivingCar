@@ -19,10 +19,10 @@ Compendium of Self-Driving Car Projects
 Simple Lane Detection | Advanced Lane Detection 
 :---:|:---:
 <a href=https://github.com/laygond/Simple-Lane-Detection>
-    <img src="./README_images/simple_lane_detection.gif" width="480" height="270"
+    <img src="./README_images/simple_lane_detection.gif" width="480" height="270"> 
 </a> | 
 <a href=https://github.com/laygond/Advanced-Lane-Detection>
-    <img src="./README_images/advanced_lane_detection.gif" width="480" height="270"
+    <img src="./README_images/advanced_lane_detection.gif" width="480" height="270">
 </a> 
 
 

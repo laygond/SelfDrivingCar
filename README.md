@@ -11,18 +11,19 @@ Compendium of Self-Driving Car Projects
 [link2]: https://github.com/laygond/Advanced-Lane-Detection
 
 # Projects
-
-<var>wooo</var>
 var {
     font-weight: bold;
 }
+
+<var>wooo</var>
+wooo
 
 
 <!-- <a href=https://github.com/laygond/Simple-Lane-Detection>
 <img src=[image1] alt="Overview" width="60%" height="60%">
 </a> -->
 
-Simple Lane Detection [(code)][link1] | Advanced Lane Detection [(code)][link2]
+Simple Lane Detection [(Click Me)][link1] | Advanced Lane Detection [(Click Me)][link2]
 :-------------------------:|:-------------------------:
 ![alt text][image1]  |  ![alt text][image2]
 

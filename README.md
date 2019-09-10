@@ -25,36 +25,14 @@ var {
 <img src=[image1] alt="Overview" width="60%" height="60%">
 </a> -->
 
-[title1](https://github.com/laygond/Simple-Lane-Detection)              |  [Advanced Lane Detection](https://github.com/laygond/Advanced-Lane-Detection)
+Simple Lane Detection [(code)][link1] | Advanced Lane Detection [(code)][link2]
 :-------------------------:|:-------------------------:
 ![alt text][image1]  |  ![alt text][image2]
 
-
+<!-- 
 [Simple Lane Detection][link1] | [Advanced Lane Detection][link2]
 :-------------------------:|:-------------------------:
-<a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image1]</a>  |     <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image2]</a>
-
-
-
-[Simple Lane Detection][link1] | [Advanced Lane Detection][link2]
-:-------------------------:|:-------------------------:
-<a href=[link1]>![alt text][image1]</a>  |     <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image2]</a>
-
-
-[Simple Lane Detection][link1] | [Advanced Lane Detection][link2]
-:-------------------------:|:-------------------------:
-<a href="link1">![alt text][image1]</a>  |     <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image2]</a>
-
-
-[Simple Lane Detection][link1] | [Advanced Lane Detection][link2]
-:-------------------------:|:-------------------------:
-<a href=["][link1]">![alt text][image1]</a>  |     <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image2]</a>
-
-
-[Simple Lane Detection][link1] | [Advanced Lane Detection][link2]
-:-------------------------:|:-------------------------:
-<a href=[][link1]>![alt text][image1]</a>  |     <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image2]</a>
-
+<a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image1]</a>  |     <a href=https://github.com/laygond/Simple-Lane-Detection>![alt text][image2]</a> -->
 
 
 [//]: # (Traffic Sign)

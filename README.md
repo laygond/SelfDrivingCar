@@ -13,9 +13,6 @@ Compendium of Self-Driving Car Projects
 [link3]: https://github.com/laygond/Traffic-Sign-Classifier
 [link4]: https://github.com/laygond/Behavioral-Cloning
 
-[hola]: [HOLA]
-
-[love][Arbitrary case-insensitive reference text]
 
 # Projects
 
@@ -26,9 +23,5 @@ Compendium of Self-Driving Car Projects
 
 [Traffic Sign Classifier (Code)][link3] | [Behavioral Clonning (Code)][link4]
 :---:|:---:
-![alt text][image3] | ![alt text][image4]
-
-[hola2][hola] | [love2][love]
-:---:|:---:
-![alt text][image3]{:height="50%" width="50%"} | ![alt text][image4]{width=200px}
+![alt text][image3] | ![alt text][image4] &nbsp; &nbsp; &nbsp; &nbsp;
 

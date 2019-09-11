@@ -38,5 +38,5 @@ Autonomous Hardware (Soon) | Little Beetle Software (Soon)
 <a href=https://github.com/laygond/SelfDrivingCar> <img src="./README_images/hardware.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/SelfDrivingCar> <img src="./README_images/leaders.jpg" width="480" height="270"> </a> 
 
 
-## A.I.Madness Team
+# A.I.Madness Team
 ![IGVC Award](./README_images/award.jpg)

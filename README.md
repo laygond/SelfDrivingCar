@@ -1,7 +1,7 @@
 # SelfDrivingCar
 Compendium of Self-Driving Car Projects
 
-![Little Beetle](./README_images/little_beetle.gif) ![IGVC Award](./README_images/award.jpg)
+![Little Beetle](./README_images/little_beetle.gif)
 
 [//]: # (--------------------------------------------------)
 [//]: # (Image Directory Paths)
@@ -33,3 +33,6 @@ Autonomous Hardware (Soon) | Little Beetle Software (Soon)
 :---:|:---:
 <a href=https://github.com/laygond/SelfDrivingCar> <img src="./README_images/hardware.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/SelfDrivingCar> <img src="./README_images/leaders.jpg" width="480" height="270"> </a> 
 
+
+## A.I.Madness Team
+![IGVC Award](./README_images/award.jpg)

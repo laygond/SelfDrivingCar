@@ -1,9 +1,12 @@
 # SelfDrivingCar
 Compendium of Self-Driving Car Projects
 
-![Little Beetle](./README_images/little_beetle.gif)
+<p align="center"> 
+    <img src="./README_images/little_beetle.gif">
+</p>
 
-[//]: # (--------------------------------------------------)
+
+[//]: # (-------------------Reference List------------------------------)
 [//]: # (Image Directory Paths)
 [image1]: ./README_images/simple_lane_detection.gif
 [image2]: ./README_images/advanced_lane_detection.gif
@@ -18,7 +21,8 @@ Compendium of Self-Driving Car Projects
 [link4]: https://github.com/laygond/Behavioral-Cloning
 [link5]: https://github.com/laygond/SelfDrivingCar
 
-## Projects
+
+# Projects
 
 Simple Lane Detection | Advanced Lane Detection 
 :---:|:---:

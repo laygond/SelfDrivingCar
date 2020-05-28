@@ -12,7 +12,12 @@ Compendium of Self-Driving Car Projects
 [image2]: ./README_images/advanced_lane_detection.gif
 [image3]: ./README_images/traffic.gif
 [image4]: ./README_images/behavior.gif
-[imageLB]: ./README_images/hardware.gif
+[image5]: ./README_images/ekf_pose.gif
+[image6]: ./README_images/pf_localization.gif
+[image7]: ./README_images/path_planning.gif
+[image8]: ./README_images/pid_controller.gif
+[imageLB_H]: ./README_images/hardware.gif
+[imageLB_S]: ./README_images/leaders.jpg
 
 [//]: # (Repo URL Links)
 [link1]: https://github.com/laygond/Simple-Lane-Detection
@@ -21,6 +26,8 @@ Compendium of Self-Driving Car Projects
 [link4]: https://github.com/laygond/Behavioral-Cloning
 [link5]: https://github.com/laygond/Extended-Kalman-Filter
 [link6]: https://github.com/laygond/Kidnapped-Vehicle-Localization
+[link7]: https://github.com/laygond/Highway-Driving-Path-Planning
+[link8]: https://github.com/laygond/PID-Controller
 
 
 
@@ -41,6 +48,10 @@ Autonomous Hardware (Soon) | Little Beetle Software (Soon)
 Extended Kalman Filter | Particle Filter Localization
 :---:|:---:
 <a href=https://github.com/laygond/Extended-Kalman-Filter> <img src="./README_images/ekf_pose.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/Kidnapped-Vehicle-Localization> <img src="./README_images/pf_localization.gif" width="480" height="270"> </a> 
+
+Highway Path Planning | PID Controller
+:---:|:---:
+<a href=https://github.com/laygond/Highway-Driving-Path-Planning> <img src="./README_images/path_planning.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/PID-Controller> <img src="./README_images/pid_controller.gif" width="480" height="270"> </a> 
 
 # A.I.Madness Team
 ![IGVC Award](./README_images/award.jpg)

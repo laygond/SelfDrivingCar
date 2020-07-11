@@ -32,6 +32,7 @@ Compendium of Self-Driving Car Projects
 
 
 # Projects
+Click for Code
 
 Simple Lane Detection | Advanced Lane Detection 
 :---:|:---:
@@ -52,6 +53,10 @@ Extended Kalman Filter | Particle Filter Localization
 Highway Path Planning | PID Controller
 :---:|:---:
 <a href=https://github.com/laygond/Highway-Driving-Path-Planning> <img src="./README_images/path_planning.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/PID-Controller> <img src="./README_images/pid_controller.gif" width="480" height="270"> </a> 
+
+Capstone Carla | Lidar Obstacle Detection
+:---:|:---:
+<a href=https://github.com/laygond/Capstone-Carla-Self-Driving-Car> <img src="./README_images/carla.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/Lidar-Obstacle-Detection> <img src="./README_images/lidar.gif" width="480" height="270"> </a> 
 
 # A.I.Madness Team
 ![IGVC Award](./README_images/award.jpg)

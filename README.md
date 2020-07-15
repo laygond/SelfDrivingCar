@@ -59,4 +59,6 @@ Carla System Integration | Lidar Obstacle Detection
 <a href=https://github.com/laygond/Capstone-Carla-Self-Driving-Car> <img src="./README_images/carla.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/Lidar-Obstacle-Detection> <img src="./README_images/lidar.gif" width="480" height="270"> </a> 
 
 # A.I.Madness Team
-![IGVC Award](./README_images/award.jpg)
+Click for Story
+
+<a href=https://engineering.nyu.edu/news/driven-nyu-tandon-students-create-prize-winning-autonomous-vehicle> <img src="./README_images/award.jpg"> </a>
